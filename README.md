@@ -51,9 +51,11 @@
 ![操作提示](https://images.gitee.com/uploads/images/2020/0728/220858_61b0b289_1865362.png "success.png")
 
 - 启动Banner
+
 ![启动Banner](https://images.gitee.com/uploads/images/2020/0807/113718_a4ea899d_1865362.png "banner.png")
 
 - 网页标签栏logo
+
 ![logo](https://images.gitee.com/uploads/images/2020/0807/113802_afa0f855_1865362.png "logo.png")
 
 #### 软件架构
