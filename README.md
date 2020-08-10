@@ -1,4 +1,11 @@
 # book-manager
+[![GitHub stars](https://img.shields.io/github/stars/LovebuildJ/book-manager?style=social)](https://github.com/LovebuildJ/book-manager/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LovebuildJ/book-manager?style=social)](https://github.com/LovebuildJ/book-manager/network)
+[![GitHub issues](https://img.shields.io/github/issues/LovebuildJ/book-manager?style=social)](https://github.com/LovebuildJ/book-manager/issues)
+[![GitHub license](https://img.shields.io/github/license/LovebuildJ/book-manager?style=social)](https://github.com/LovebuildJ/book-manager/blob/master/LICENSE)
+
+
+鉴于gitee人气较低，本项目从v1.0.2版本后将不提供更新, 只在原有基础上进行维护。后期新版本等将在GitHub作为主要维护仓库。[GitHub仓库地址](https://github.com/LovebuildJ/book-manager)，版本升级等等。
 
 #### 介绍
 图书管理系统
